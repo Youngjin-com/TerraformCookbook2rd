@@ -1,6 +1,6 @@
 # 테라폼 쿡북
 
-<img src="https://www.youngjin.com/images/book_cover/9788931475876.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931475876.png" height="350px" style="border: 2px solid grey;">
 
 [테라폼 쿡북(영진닷컴)](https://blog.naver.com/ydot/223490653405)
 
